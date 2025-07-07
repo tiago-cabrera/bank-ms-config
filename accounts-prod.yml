@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "Welcome to Bank accounts related Prod APIs"
+  contactDetails:
+    name: "Tiago Cabrera - PO"
+    email: "tiago@po.com"
+  onCallSupport:
+    - 4444
+    - 5555
