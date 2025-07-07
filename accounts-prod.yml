@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "Welcome to Bank accounts related Prod APIs"
+  message: "Welcome to Bank accounts related Production APIs"
   contactDetails:
     name: "Tiago Cabrera - PO"
     email: "{cipher}5aa2bd7f4e7bec432f1c70784afc6a896ea2f52af50925f0452fadca93133849"
