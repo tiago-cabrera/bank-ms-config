@@ -4,7 +4,7 @@ loans:
   message: "Welcome to Bank loans related QA APIs"
   contactDetails:
     name: "Tiago Cabrera - QA Lead"
-    email: "tiago@qa.com"
+    email: "{cipher}4e377d64c1ee406c02ae6ff0860ce81d686819f0a691bdfeaacef693cc76a9a0"
   onCallSupport:
     - 2222
     - 3333

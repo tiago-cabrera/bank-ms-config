@@ -4,7 +4,7 @@ loans:
   message: "Welcome to Bank loans related Prod APIs"
   contactDetails:
     name: "Tiago Cabrera - PO"
-    email: "tiago@po.com"
+    email: "{cipher}5aa2bd7f4e7bec432f1c70784afc6a896ea2f52af50925f0452fadca93133849"
   onCallSupport:
     - 4444
     - 5555
