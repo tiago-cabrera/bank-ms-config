@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "Welcome to Bank loans related Prod APIs"
+  contactDetails:
+    name: "Tiago Cabrera - PO"
+    email: "tiago@po.com"
+  onCallSupport:
+    - 4444
+    - 5555

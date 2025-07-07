@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to Bank cards related local APIs"
+  contactDetails:
+    name: "Tiago Cabrera - Developer"
+    email: "tiago@developer.com"
+  onCallSupport:
+    - 0000
+    - 1111

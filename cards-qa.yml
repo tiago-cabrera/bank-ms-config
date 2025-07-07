@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to Bank cards related QA APIs"
+  contactDetails:
+    name: "Tiago Cabrera - QA Lead"
+    email: "tiago@qa.com"
+  onCallSupport:
+    - 2222
+    - 3333
