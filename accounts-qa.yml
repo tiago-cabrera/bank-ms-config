@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to Bank accounts related Quality Assurance APIs"
+  message: "Welcome to Bank accounts related QA APIs"
   contactDetails:
     name: "Tiago Cabrera - QA Lead"
     email: "{cipher}4e377d64c1ee406c02ae6ff0860ce81d686819f0a691bdfeaacef693cc76a9a0"
