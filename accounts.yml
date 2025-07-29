@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to Bank accounts related Local APIs"
+  message: "Welcome to Bank accounts related Docker APIs"
   contactDetails:
     name: "Tiago Cabrera - Developer"
     email: "{cipher}292348160dbb5944f2fee6649f63272dacfd55791d2fadca56262ce7a5e7b8202f5adc28f5f76c53fe434eae3719347d"
